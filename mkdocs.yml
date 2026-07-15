@@ -2,10 +2,21 @@ site_name: Forgotten Record
 
 theme:
   name: material
+  language: ja
 
 nav:
   - ホーム: index.md
-  - 概要: overview.md
-  - あらすじ: synopsis.md
-  - プロローグ: prologue.md
-  - Chapter1: chapter1.md
+
+  - ストーリー:
+      - あらすじ: story/synopsis.md
+      - プロローグ: story/prologue.md
+      - Chapter1: story/chapter1.md
+
+  - 世界観:
+      - 概要: world/overview.md
+
+  - キャラクター:
+
+  - ギミック:
+
+  - 開発資料:
