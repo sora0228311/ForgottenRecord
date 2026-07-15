@@ -1,10 +1,21 @@
 # Forgotten Record
 
-公式Wiki
+TRPG風ホラー脱出マップ
 
-## Contents
+---
 
-- 概要
-- あらすじ
-- プロローグ
-- Chapter1
+## ようこそ
+
+このサイトでは
+
+Forgotten Recordの
+
+・世界観
+
+・ストーリー
+
+・キャラクター
+
+・ギミック
+
+などを公開しています。
