@@ -1,4 +1,6 @@
 site_name: Forgotten Record
+site_description: TRPG風ホラー脱出マップ
+site_url: https://sora0228311.github.io/ForgottenRecord/
 
 theme:
   name: material
@@ -11,12 +13,34 @@ nav:
       - あらすじ: story/synopsis.md
       - プロローグ: story/prologue.md
       - Chapter1: story/chapter1.md
+      - Chapter2: story/chapter2.md
+      - Chapter3: story/chapter3.md
+      - エンディング: story/ending.md
+
+  - キャラクター:
+      - 一覧: characters/index.md
+      - 神崎 湊: characters/medical.md
+      - 雨宮 蒼: characters/machine.md
+      - 黒川 空: characters/survival.md
+      - 白石 悠: characters/support.md
+      - 関係性: characters/relationship.md
 
   - 世界観:
       - 概要: world/overview.md
-
-  - キャラクター:
+      - 年表: world/timeline.md
+      - 組織: world/organization.md
+      - ロケーション: world/locations.md
 
   - ギミック:
+      - Chapter1: gimmicks/chapter1.md
+      - Chapter2: gimmicks/chapter2.md
+      - Chapter3: gimmicks/chapter3.md
+      - チェイス: gimmicks/chase.md
+      - エンディング: gimmicks/endings.md
 
   - 開発資料:
+      - 建築: development/building.md
+      - コマンド: development/commands.md
+      - アドオン: development/addons.md
+      - スコアボード: development/scoreboards.md
+      - ロードマップ: development/roadmap.md
