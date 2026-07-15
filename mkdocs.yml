@@ -1,1 +1,11 @@
+site_name: Forgotten Record
 
+theme:
+  name: material
+
+nav:
+  - ホーム: index.md
+  - 概要: overview.md
+  - あらすじ: synopsis.md
+  - プロローグ: prologue.md
+  - Chapter1: chapter1.md
