@@ -1,5 +1,5 @@
 # Forgotten Record
-https://chatgpt.com/s/m_6a57b42f377881919eee69e7fea3101e
+
 > **「その記録は、忘れられてはならない。」**
 
 ---
