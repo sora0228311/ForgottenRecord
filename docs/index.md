@@ -1,4 +1,4 @@
-# Forgotten Recordあ
+# Forgotten Record
 
 > **「その記録は、忘れられてはならない。」**
 
